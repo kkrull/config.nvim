@@ -47,8 +47,7 @@
 --
 -- Use the `dependencies` key to specify the dependencies of a particular plugin
 require('lazy').setup({
-  'tpope/vim-sleuth', -- Detect tabstop and shiftwidth automatically
-
+  require 'plugins.vim-sleuth',
   require 'plugins.gitsigns-basic',
   require 'plugins.which-key',
   require 'plugins.telescope',
