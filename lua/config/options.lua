@@ -65,8 +65,4 @@ vim.opt.scrolloff = 10
 -- See `:help 'confirm'`
 vim.opt.confirm = true
 
-if vim.g.neovide then
-  vim.o.guifont = "0xProto:h12"
-end
-
 -- vim: ts=2 sts=2 sw=2 et
