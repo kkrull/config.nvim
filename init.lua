@@ -94,6 +94,10 @@ vim.opt.scrolloff = 10
 -- See `:help 'confirm'`
 vim.opt.confirm = true
 
+if vim.g.neovide then
+  vim.o.guifont = "0xProto:h12"
+end
+
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
