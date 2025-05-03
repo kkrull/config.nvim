@@ -1,4 +1,3 @@
--- nvim-treesitter
 -- Highlight, edit, and navigate code
 return {
   {

@@ -1,4 +1,3 @@
--- which-key
 -- Useful plugin to show you pending keybinds.
 return {
   {

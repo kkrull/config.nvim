@@ -1,4 +1,3 @@
--- telescope
 -- Fuzzy Finder (files, lsp, etc)
 return {
   {

@@ -1,4 +1,3 @@
--- blink
 -- Autocompletion
 return {
   {

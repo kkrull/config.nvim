@@ -1,4 +1,3 @@
--- todo-comments
 -- Highlight todo, notes, etc in comments
 return {
   {
